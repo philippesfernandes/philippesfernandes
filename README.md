@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on ... Infrastructure Analyst
 ### 🌱 I’m currently learning ... HTML, CSS, JavaScript, React and Wordpress
-### ⚡ Fun fact: ... I am a musician and football
+### ⚡ Fun fact: ... I am a musician and i love football
 <!--
 **philippesfernandes/philippesfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
